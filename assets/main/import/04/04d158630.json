@@ -1,0 +1,420 @@
+[
+  1,
+  [
+    "f4vYaeMYFA9rKWfhaBcHQk@f9941",
+    "13ZZ+hhLlAfIXBt30p1Jpq@6c48a",
+    "3a4auxPYZINol7cZB9a6Uf@6c48a",
+    "13ZZ+hhLlAfIXBt30p1Jpq@f9941",
+    "63knFeI79C0aFXaLAE1PFb@6c48a",
+    "56NrqfCidGwqR8F/22gHlU",
+    "63knFeI79C0aFXaLAE1PFb@f9941",
+    "3a4auxPYZINol7cZB9a6Uf@f9941",
+    "f4vYaeMYFA9rKWfhaBcHQk@6c48a"
+  ],
+  [
+    "node",
+    "_spriteFrame",
+    "_textureSource",
+    "root",
+    "data",
+    "_cameraComponent",
+    "maskUITransform",
+    "scene",
+    "_parent",
+    "rotateScreenPrefab"
+  ],
+  [
+    [
+      "cc.Node",
+      [
+        "_name",
+        "_layer",
+        "_id",
+        "_components",
+        "_parent",
+        "_children",
+        "_prefab",
+        "_lpos",
+        "_lscale"
+      ],
+      0,
+      9,
+      1,
+      2,
+      4,
+      5,
+      5
+    ],
+    [
+      "cc.UITransform",
+      ["node", "_contentSize", "__prefab", "_anchorPoint"],
+      3,
+      1,
+      5,
+      4,
+      5
+    ],
+    "cc.SpriteFrame",
+    [
+      "cc.Sprite",
+      [
+        "_sizeMode",
+        "_type",
+        "_fillType",
+        "_fillStart",
+        "node",
+        "_spriteFrame",
+        "__prefab"
+      ],
+      -1,
+      1,
+      6,
+      4
+    ],
+    [
+      "cc.Widget",
+      [
+        "_alignFlags",
+        "_left",
+        "_right",
+        "_top",
+        "_bottom",
+        "_originalWidth",
+        "_originalHeight",
+        "node",
+        "__prefab"
+      ],
+      -4,
+      1,
+      4
+    ],
+    ["cc.Prefab", ["_name"], 2],
+    [
+      "cc.Node",
+      ["_name", "_layer", "_parent", "_children", "_components", "_lpos"],
+      1,
+      1,
+      2,
+      12,
+      5
+    ],
+    ["cc.Node", ["_name", "_parent", "_components", "_lpos"], 2, 1, 2, 5],
+    ["cc.CompPrefabInfo", ["fileId"], 2],
+    ["cc.BlockInputEvents", ["node", "__prefab"], 3, 1, 4],
+    ["cc.PrefabInfo", ["fileId", "root", "asset"], 2, 1, 1],
+    ["cc.SceneAsset", ["_name"], 2],
+    ["cc.Canvas", ["node", "__prefab", "_cameraComponent"], 3, 1, 4, 1],
+    [
+      "434c5pLNAtNyLDIwDNC+EEc",
+      ["gameStartSceneName", "node", "maskUITransform"],
+      2,
+      1,
+      1
+    ],
+    ["cc.Mask", ["node", "__prefab"], 3, 1, 4],
+    ["cc.Scene", ["_name", "_children", "_globals"], 2, 2, 4],
+    [
+      "cc.SceneGlobals",
+      ["ambient", "shadows", "_skybox", "fog"],
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    ["cc.AmbientInfo", [], 3],
+    [
+      "cc.ShadowsInfo",
+      ["_bias", "_near", "_far", "_saturation", "_shadowColor"],
+      -1,
+      5
+    ],
+    ["cc.SkyboxInfo", [], 3],
+    ["cc.FogInfo", [], 3],
+    [
+      "7ddbeOp+Y1A2IEMDfpWozEj",
+      [
+        "gameCode",
+        "disableDomainCheck",
+        "apiKey",
+        "node",
+        "rotateScreenPrefab"
+      ],
+      0,
+      1,
+      6
+    ],
+    [
+      "cc.Camera",
+      [
+        "_projection",
+        "_priority",
+        "_orthoHeight",
+        "_far",
+        "_clearFlags",
+        "_visibility",
+        "node",
+        "_color"
+      ],
+      -3,
+      1,
+      5
+    ]
+  ],
+  [
+    [8, 0, 2],
+    [1, 0, 2, 1, 1],
+    [3, 0, 4, 5, 2],
+    [0, 0, 1, 4, 3, 7, 3],
+    [10, 0, 1, 2, 2],
+    [5, 0, 2],
+    [0, 0, 1, 5, 3, 6, 3],
+    [0, 0, 1, 4, 3, 6, 8, 3],
+    [0, 0, 1, 2, 5, 3, 7, 4],
+    [0, 0, 1, 4, 5, 3, 3],
+    [0, 0, 1, 2, 4, 3, 4],
+    [6, 0, 1, 2, 3, 4, 5, 3],
+    [7, 0, 1, 2, 3, 2],
+    [1, 0, 1],
+    [1, 0, 1, 3, 1],
+    [1, 0, 1, 1],
+    [1, 0, 2, 1, 3, 1],
+    [3, 1, 2, 0, 3, 4, 6, 5, 5],
+    [3, 0, 4, 6, 5, 2],
+    [9, 0, 1, 1],
+    [4, 0, 1, 2, 3, 4, 5, 6, 7, 8, 8],
+    [4, 0, 7, 8, 2],
+    [11, 0, 2],
+    [12, 0, 1, 2, 1],
+    [13, 0, 1, 2, 2],
+    [14, 0, 1, 1],
+    [15, 0, 1, 2, 2],
+    [16, 0, 1, 2, 3, 1],
+    [17, 1],
+    [18, 0, 1, 2, 3, 4, 5],
+    [19, 1],
+    [20, 1],
+    [21, 0, 1, 2, 3, 4, 4],
+    [22, 0, 1, 2, 3, 4, 5, 6, 7, 7]
+  ],
+  [
+    [
+      [
+        {
+          "name": "rotate",
+          "rect": { "x": 0, "y": 0, "width": 1280, "height": 1280 },
+          "offset": { "x": 0, "y": 0 },
+          "originalSize": { "width": 1280, "height": 1280 },
+          "rotated": false,
+          "capInsets": [0, 0, 0, 0],
+          "packable": true
+        }
+      ],
+      [2],
+      0,
+      [0],
+      [2],
+      [1]
+    ],
+    [
+      [
+        {
+          "name": "gamezop_icon@2x",
+          "rect": { "x": 0, "y": 0, "width": 964, "height": 252 },
+          "offset": { "x": 0, "y": 0 },
+          "originalSize": { "width": 964, "height": 252 },
+          "rotated": false,
+          "capInsets": [0, 0, 0, 0],
+          "packable": true
+        }
+      ],
+      [2],
+      0,
+      [0],
+      [2],
+      [2]
+    ],
+    [
+      [
+        [5, "RotateScreenBG"],
+        [
+          6,
+          "RotateScreenBG",
+          33554432,
+          [-6],
+          [
+            [1, -2, [0, "f7NISe7HdAD68SLfhnddy8"], [5, 6000, 5000]],
+            [17, 2, 1, 0, 0.5, -3, [0, "e71ctEmpxFC4KlSYRZNz/a"], 1],
+            [19, -4, [0, "e3yOTPp7RJVLbQUgWfVbhz"]],
+            [
+              20,
+              45,
+              -2730,
+              -2730,
+              -2020,
+              -2020,
+              1280,
+              1280,
+              -5,
+              [0, "c8xGLNSVZIvISMkU5VuZve"]
+            ]
+          ],
+          [4, "e1/JzQpVJFVINyLbvFZeft", -1, 0]
+        ],
+        [
+          7,
+          "rotate",
+          33554432,
+          1,
+          [
+            [1, -7, [0, "f7NISe7HdAD68SLfhnddy8"], [5, 1280, 1280]],
+            [18, 0, -8, [0, "e71ctEmpxFC4KlSYRZNz/a"], 0]
+          ],
+          [4, "8cPXCF5wBO/Yb6U02GPY3E", 1, 0],
+          [1, 0.5, 0.5, 0.5]
+        ]
+      ],
+      0,
+      [
+        0, 3, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, -1, 2, 0, 0, 2, 0, 0, 2,
+        0, 4, 1, 8
+      ],
+      [0, 0],
+      [1, 1],
+      [3, 0]
+    ],
+    [
+      [
+        {
+          "name": "gamezop_outline@2x",
+          "rect": { "x": 0, "y": 0, "width": 968, "height": 255 },
+          "offset": { "x": -0.5, "y": 0 },
+          "originalSize": { "width": 969, "height": 255 },
+          "rotated": false,
+          "capInsets": [0, 0, 0, 0],
+          "packable": true
+        }
+      ],
+      [2],
+      0,
+      [0],
+      [2],
+      [4]
+    ],
+    [
+      [
+        [22, "GamezopLoadingScene"],
+        [
+          8,
+          "Canvas",
+          33554432,
+          "66Nb/x9VhK2J9h0aOc4hWw",
+          [-6, -7, -8],
+          [
+            [1, -1, [0, "0dngp/9gNO34wUQjZfN/CX"], [5, 540, 960]],
+            [23, -3, [0, "3f2oTdCepERZdpmIfLsrhd"], -2],
+            [21, 45, -4, [0, "e8a+bU/8dPDbbJguUzLdoF"]],
+            [2, 0, -5, 3]
+          ],
+          [1, 270, 480, 0]
+        ],
+        [
+          9,
+          "Loader",
+          33554432,
+          1,
+          [-12],
+          [
+            [13, -9],
+            [24, "game", -11, -10]
+          ]
+        ],
+        [
+          11,
+          "progressMask",
+          33554432,
+          2,
+          [-15],
+          [[-13, [25, -14, [0, "90TR3hptxAq7K974GgvafO"]]], 1, 4],
+          [1, -246.448, 0, 0]
+        ],
+        [
+          26,
+          "GamezopLoadingScene",
+          [-16, 1],
+          [27, [28], [29, 0.1, 1, 30, 1, [4, 4283190348]], [30], [31]]
+        ],
+        [
+          3,
+          "progress",
+          33554432,
+          1,
+          [
+            [14, -17, [5, 493, 124], [0, 0, 0.5]],
+            [2, 0, -18, 1]
+          ],
+          [1, -246.448, 0, 0]
+        ],
+        [
+          3,
+          "loading",
+          33554432,
+          3,
+          [
+            [15, -19, [5, 493, 124]],
+            [2, 0, -20, 2]
+          ],
+          [1, 246.448, 0, 0]
+        ],
+        [
+          10,
+          "GamezopSDK",
+          33554432,
+          "d8P3jSGndGm43+Cyp1yXeq",
+          4,
+          [
+            [
+              32,
+              "HkTQJhTXqRS",
+              true,
+              "57d370d9-d604-4b6b-8628-95ee800b2386",
+              -21,
+              0
+            ]
+          ]
+        ],
+        [12, "Camera", 1, [-22], [1, 0, 0, 1000]],
+        [33, 0, 1073741824, 480, 2000, 6, 41943040, 8, [4, 4278190080]],
+        [16, 3, [0, "85Rkr8igNOB6QSD/HtnhgH"], [5, 493, 124], [0, 0, 0.5]]
+      ],
+      0,
+      [
+        0, 0, 1, 0, 5, 9, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, -1, 5, 0, -2, 8, 0, -3,
+        2, 0, 0, 2, 0, 6, 10, 0, 0, 2, 0, -1, 3, 0, -1, 10, 0, 0, 3, 0, -1, 6,
+        0, -1, 7, 0, 0, 5, 0, 0, 5, 0, 0, 6, 0, 0, 6, 0, 0, 7, 0, -1, 9, 0, 7,
+        4, 1, 8, 4, 22
+      ],
+      [0, 0, 0, 0],
+      [9, 1, 1, 1],
+      [5, 6, 7, 0]
+    ],
+    [
+      [
+        {
+          "name": "splash_background_2",
+          "rect": { "x": 0, "y": 0, "width": 1280, "height": 1280 },
+          "offset": { "x": 0, "y": 0 },
+          "originalSize": { "width": 1280, "height": 1280 },
+          "rotated": false,
+          "capInsets": [0, 0, 0, 0],
+          "packable": true
+        }
+      ],
+      [2],
+      0,
+      [0],
+      [2],
+      [8]
+    ]
+  ]
+]
